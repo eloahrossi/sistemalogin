@@ -43,7 +43,6 @@ function Login() {
     return (
         <div className='div'>
             <h1>Login</h1>
-            <h2>Júlia Pereira</h2>
             <form>
                 <label>
                     Usuário: 

@@ -54,7 +54,6 @@ function Cadastro() {
   return (
     <div>
       <h1>Cadastro</h1>
-      <h2>Júlia Pereira</h2>
 
       <form onSubmit={handleSubmit}>
         <label>
